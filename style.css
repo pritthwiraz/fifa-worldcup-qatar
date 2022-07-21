@@ -76,10 +76,6 @@ body {
 }
 
 /* Main section styles  */
-
-
-
-
 .main {
     display: flex;
     margin-top: 100px;
@@ -200,3 +196,9 @@ footer {
     padding: 25px;
     margin-left: 20px;
 }
+
+/* media queries  */
+
+/* Tablet Devices  */
+
+@media screen and (max-width:768px) {}
